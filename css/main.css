@@ -1,0 +1,64 @@
+html {
+  background-color: #c9b5ab;
+  font-family: "PT Sans", sans-serif;
+  line-height: 1.5;
+}
+
+nav ul {
+  font-family: "PT Serif", sans-serif;
+  font-weight: bold;
+  list-style-type: none;
+  color: #8f2440;
+}
+
+h1 {
+  color: #3f1622;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+}
+
+.harvest {
+  font-family: "PT Serif", sans-serif;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+figcaption {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+  font-style: italic;
+}
+
+a {
+  font-size: 1.125rem;
+  text-decoration: none;
+  color: #8f2440;
+}
+
+blockquote {
+  color: #222;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-style: italic;
+}
+
+main {
+  font-size: 1.125rem;
+  font-weight: normal;
+  color: #222;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #3f1622;
+  list-style-type: square;
+}
+
+footer {
+  font-size: .8rem;
+  font-weight: normal;
+}
